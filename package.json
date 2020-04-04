@@ -1,0 +1,23 @@
+{
+	"name": "imageman",
+	"version": "1.0.0",
+	"main": "./src/index.ts",
+	"author": "Meet Usadadiya <meet123.usadadiya@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"start": "ts-node ./src/index.ts",
+		"clean-cache": "ts-node ./src/cleancache.ts"
+	},
+	"dependencies": {
+		"@types/config": "^0.0.36",
+		"@types/express": "^4.17.3",
+		"@types/glob": "^7.1.1",
+		"@types/multer": "^1.4.2",
+		"@types/sharp": "^0.24.0",
+		"express": "^4.17.1",
+		"file-type": "^14.1.4",
+		"glob": "^7.1.6",
+		"multer": "^1.4.2",
+		"sharp": "^0.25.2"
+	}
+}

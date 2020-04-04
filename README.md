@@ -6,9 +6,10 @@
 
 **How it works:**
 
-![enter image description here](https://i.ibb.co/BC4S4fz/Diagram.png)
+![Diagram](https://i.ibb.co/BC4S4fz/Diagram.png)
 
 **Client-Side Demo:**
+
 ![Demo](https://user-images.githubusercontent.com/23379240/78450603-684c5f00-769d-11ea-8d4f-aa971882e653.gif)
 
 ## Applications
